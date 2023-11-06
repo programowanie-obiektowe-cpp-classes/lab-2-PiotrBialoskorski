@@ -34,4 +34,4 @@
 # generaly any file should be added 
 *
 # only this file is allowed to commit
-!ResourceManager.hpp
+#!ResourceManager.hpp
